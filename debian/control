@@ -1,0 +1,17 @@
+Source: turtlebot-wallpapers
+Section: x11
+Priority: optional
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: turtlebot-wallpapers
+Architecture: any
+Provides: turtlebot-wallpapers
+Conflicts: 
+Replaces:
+Depends: ${misc:Depends}
+Description: TurtleBot Wallpapers
+ The default Wallpapers for TurtleBots.
+  * TurtleBot Backgrounds
+
