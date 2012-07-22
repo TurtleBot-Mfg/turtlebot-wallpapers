@@ -1,3 +1,9 @@
+turtlebot-wallpapers (0.0.2) precise; urgency=low
+
+  * Fixed to pass lintian
+
+ -- I Heart Engineering <code@iheartengineering.com>  Sun, 22 Jul 2012 01:30:57 -0400
+
 turtlebot-wallpapers (0.0.1) UNRELEASED; urgency=low
 
   * Re-init repo for git-dch support!!
