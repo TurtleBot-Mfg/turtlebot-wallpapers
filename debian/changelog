@@ -1,8 +1,10 @@
 turtlebot-wallpapers (0.0.2) precise; urgency=low
 
   * Fixed to pass lintian
+  * changes
+  * Lintian fix
 
- -- I Heart Engineering <code@iheartengineering.com>  Sun, 22 Jul 2012 01:30:57 -0400
+ -- I Heart Engineering <code@iheartengineering.com>  Sun, 22 Jul 2012 01:32:55 -0400
 
 turtlebot-wallpapers (0.0.1) UNRELEASED; urgency=low
 
