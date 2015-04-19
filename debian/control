@@ -1,7 +1,7 @@
 Source: turtlebot-wallpapers
 Section: x11
 Priority: optional
-Maintainer: I Heart Engineering <code@iheartengineering.com>
+Maintainer: NE Automation <code@neautomation.com>
 Build-Depends: debhelper (>= 5), cdbs
 Standards-Version: 3.9.3
 
