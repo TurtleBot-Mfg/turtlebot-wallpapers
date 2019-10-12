@@ -1,0 +1,7 @@
+deploy:
+  - provider: launchpad
+    slug: "~hxr-io/turtlebot-mfg/+git/master"
+    oauth_token:
+      secure: "d/46gyRXNSY1rSZL3l6EaUBxJFUNX0JYrYibPsFomfENk8h7W3UyJkVKoYpX3cjjLFh24kAHIEZmhKdR58alEb5Dlw4I3tio8THnndO4OrgZdw1NCXQqMbiG5Guu637saK4sRTCt8SkyGAbRdiB/Vi2i46wLErAwloyNcvvePQ0="
+    oauth_token_secret: 
+      secure: "Vnqd8xnPNCN/IwGPdDq8SCbafSEbpZk0Szr3xK6NaL+C6jIVM/UUDGK5SVg1NzBaTam3ppbuY/PtPZ0Y57PtqEjUYHQCv1z2ovkDZJzDq/HegUKFgE6rGuOnVHXLS853SpNLYwIzgYqa5WvLyEo4z3ZkJBwFiARjJ/aVdId8MXM="
