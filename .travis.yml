@@ -3,7 +3,7 @@ matrix:
   include:
     - dist: xenial
       script:
-        - sh cd .
+        - bash -c 'echo NO-OP'
 
 deploy:
   - provider: launchpad
