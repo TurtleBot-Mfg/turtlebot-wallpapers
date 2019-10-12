@@ -9,6 +9,6 @@ deploy:
   - provider: launchpad
     slug: "~hxr-io/turtlebot-mfg/+git/master"
     oauth_token:
-      secure: "MgubB9zmQ19r2Ja/+d9NeEXbXG56/veSE1u2J5HY928Nb5Ge24zgHWeL18BoF5LoO3s3Cp0V0MRPDi5dZLrTfwXhMop1tGuVFxYGkjka91867gF27BtnqsslpelElnPi9lYBUbPfnnTgTdYE8AWBJ1WPgtgI/iHRJvs88PJoCpA="
+      secure: "JJ0GWAwQqVWHdylz2Jw9TP8iyvG2WIUh8PGjyM+dE1TTOVnfZ1lS+9Lcnf8/pOkbKCzRktSBxQ98SWUuvON0Kw5tWdv/+hxNRNBLNXQDnwnf6Qn/QMKpWxFBhlUrv8xqcnCKA/C7sVAyttCgWVWPQLrCl2zcyJlFq7XEEWdhv40="
     oauth_token_secret: 
-      secure: "ZEMEjxEpLiqRjw56Mb2LhHIcgm8xK5p24gmFk4MWthIZJRgQQfpJP0p42/Ft9XR0oxtmJaJh+QZkeLjs/ldO5V2VUr8yLWGNh++W5D4ENsSg+w/u1HbPSzVzGcxC0sz8jzpNzz4gZTDwkkfGf3DNOUecwoWkTVxjMqMI5nCKTQw="
+      secure: "NuZm5lUxjCns95kKGrq6lE+JY9Th8M1ZicAihTQ9G3EPXQDh3vPmmQHbYx4Q8l7hm+Qw2e6SieSPqo5ltxwUG/fW8g69IjzgKj2dmTxqXGoYVQwwzUtOAkuISFDUJzcx466aM/jJZqwOajL1tT9L+kmHxy7vx+QXANRIGqQzB7c="
