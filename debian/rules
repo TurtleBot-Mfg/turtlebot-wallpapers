@@ -2,10 +2,7 @@
 # -*- makefile -*-
 
 export DH_ALWAYS_EXCLUDE=CVS:.svn:.git
+#DH_VERBOSE = 1
 
-include /usr/share/cdbs/1/rules/debhelper.mk
-
-binary-post-install/turtlebot-wallpapers::
-
-clean ::
-
+%:
+	dh $@

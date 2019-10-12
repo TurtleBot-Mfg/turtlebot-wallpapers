@@ -1,4 +1,4 @@
 turtlebot-wallpapers/
-turtlebot-wallpapers.debhelper.log
+*.log
 turtlebot-wallpapers.substvars
 files
