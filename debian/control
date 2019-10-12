@@ -15,5 +15,5 @@ Conflicts:
 Replaces:
 Depends: ${misc:Depends}
 Description: TurtleBot themed wallpapers
- The default Wallpapers for TurtleBots.
+ The default Wallpapers for TurtleBot mobile robots.
   * TurtleBot Backgrounds
