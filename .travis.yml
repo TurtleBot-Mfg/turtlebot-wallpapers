@@ -3,7 +3,7 @@ matrix:
   include:
     - dist: xenial
       script:
-        - sh true
+        - sh cd .
 
 deploy:
   - provider: launchpad
