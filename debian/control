@@ -1,9 +1,9 @@
 Source: turtlebot-wallpapers
 Section: x11
 Priority: optional
-Maintainer: HXR <code@hxr.io>
+Maintainer: Human x Robot <code@hxr.io>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 4.4.1
+Standards-Version: 4.1.4
 Homepage: https://github.com/TurtleBot-Mfg/turtlebot-wallpapers
 Vcs-Git: https://github.com/TurtleBot-Mfg/turtlebot-wallpapers
 Vcs-Browser: https://github.com/TurtleBot-Mfg/turtlebot-wallpapers
@@ -14,6 +14,6 @@ Provides: turtlebot-wallpapers
 Conflicts:
 Replaces:
 Depends: ${misc:Depends}
-Description: TurtleBot Wallpapers
+Description: TurtleBot themed wallpapers
  The default Wallpapers for TurtleBots.
   * TurtleBot Backgrounds
