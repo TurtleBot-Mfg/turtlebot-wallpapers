@@ -10,5 +10,5 @@ deploy:
     slug: "~hxr-io/turtlebot-mfg/+git/master"
     oauth_token:
       secure: "JJ0GWAwQqVWHdylz2Jw9TP8iyvG2WIUh8PGjyM+dE1TTOVnfZ1lS+9Lcnf8/pOkbKCzRktSBxQ98SWUuvON0Kw5tWdv/+hxNRNBLNXQDnwnf6Qn/QMKpWxFBhlUrv8xqcnCKA/C7sVAyttCgWVWPQLrCl2zcyJlFq7XEEWdhv40="
-    oauth_token_secret: 
+    oauth_token_secret:
       secure: "NuZm5lUxjCns95kKGrq6lE+JY9Th8M1ZicAihTQ9G3EPXQDh3vPmmQHbYx4Q8l7hm+Qw2e6SieSPqo5ltxwUG/fW8g69IjzgKj2dmTxqXGoYVQwwzUtOAkuISFDUJzcx466aM/jJZqwOajL1tT9L+kmHxy7vx+QXANRIGqQzB7c="
