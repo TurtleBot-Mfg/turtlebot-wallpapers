@@ -1,8 +1,8 @@
-turtlebot-wallpapers (0.0.6) unstable; urgency=low
+turtlebot-wallpapers (0.0.7) unstable; urgency=low
 
   * CI testing
 
- -- Human x Robot <code@hxr.io>  Sat, 12 Oct 2019 03:44:24 -0400
+ -- Human x Robot <code@hxr.io>  Sun, 13 Oct 2019 06:45:04 -0400
 
 turtlebot-wallpapers (0.0.2) precise; urgency=low
 
