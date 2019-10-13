@@ -1,5 +1,7 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
+LC_ALL = "C.UTF-8"
+LANG = "C.UTF-8"
 
 export DH_ALWAYS_EXCLUDE=CVS:.svn:.git
 #DH_VERBOSE = 1
