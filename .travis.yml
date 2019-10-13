@@ -7,7 +7,7 @@ matrix:
 
 deploy:
   - provider: launchpad
-    slug: "~hxr-io/turtlebot-mfg/+git/master"
+    slug: "~hxr-io/turtlebot-wallpapers/+git/xenial"
     oauth_token:
       secure: "JJ0GWAwQqVWHdylz2Jw9TP8iyvG2WIUh8PGjyM+dE1TTOVnfZ1lS+9Lcnf8/pOkbKCzRktSBxQ98SWUuvON0Kw5tWdv/+hxNRNBLNXQDnwnf6Qn/QMKpWxFBhlUrv8xqcnCKA/C7sVAyttCgWVWPQLrCl2zcyJlFq7XEEWdhv40="
     oauth_token_secret:
